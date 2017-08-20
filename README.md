@@ -7,9 +7,10 @@ This plugin can add right analog stick support to PSP games on the Adrenaline eC
 Copy the .prx & .ini files to your seplugins folder and add "ms0:/seplugins/camera_patch_lite.prx 1" to the game.txt file.
 
 
-#### Note:
+#### Notes:
 This does not involve actual game patching but only shortcuts the already build-in camera controls of those games to the analog stick. Depending on the game this will work differently good or bad! Like sometimes there might be a small delay or you'll only be able to look left or right, but thats all game depending and better than nothing imo. Also if a game uses a trigger button + the left analog stick for camera movement you obviously won't be able to walk and move the camera at the same time for example.
 
+Also some games are disabled by default in the .ini file due to the native patches by TheFlow. Use those plugins instead!
 
 #### Demo: 
 https://www.youtube.com/watch?v=mcaOkqbq82c
@@ -22,7 +23,7 @@ https://www.youtube.com/watch?v=mcaOkqbq82c
 50Cent BulletProof G-Unit Edition
 Aliens vs. Predator Requiem
 Ape Escape: On the Loose
-Assassins Creed: Bloodlines
+Assassins Creed: Bloodlines (disabled by default)
 Avatar The Game
 Ben 10 Aien Force Vilgax Attacks
 Ben 10 Ultimate Alien Cosmic Destruction
@@ -36,8 +37,8 @@ Ghostbusters: The Video Game
 Gladiator Begins
 God of War: Chains of Olympus (dodge with stick)
 God of War: Ghost of Sparta (dodge with stick)
-Grand Theft Auto Liberty City Stories
-Grand Theft Auto Vice City Stories
+Grand Theft Auto Liberty City Stories (disabled by default)
+Grand Theft Auto Vice City Stories (disabled by default)
 Gun Showdown
 Harvest Moon Hero of leaf valley
 Indiana Jones and Staff of Kings
@@ -69,14 +70,14 @@ Ratatouille
 Ratched & Clank Size Matters
 Rengoku: The Tower of Purgatory
 Rengoku II: The Stairway to Heaven
-Resistance Retribution
+Resistance Retribution (disabled by default)
 Secret Agent Clank
 Silent Hill: Shattered Memories
 Skate Park City
 Spiderman 2
 Spiderman 3
 Spinout
-Splinter Cell Essentials
+Splinter Cell Essentials (disabled by default)
 Star Wars Battlefront 2
 Star Wars Battlefront 2 Elite Squadron
 Star Wars Battlefront 2 Renegade Squadron
@@ -91,8 +92,8 @@ Tom Clancy's Ghost Recon Advanced Warfighter 2
 Tom Clancy's Ghost Recon Predator
 The Legend Of Heroes: Trails in the Sky
 The Legend Of Heroes: Trails in the Sky Second Chapter
-Tomb Raider: Legends
-Tomb Raider: Anniversary
+Tomb Raider: Legends (disabled by default)
+Tomb Raider: Anniversary (disabled by default)
 Tony Hawk's Underground 2
 Toy Story 3
 Valkyria Chronicles 2
