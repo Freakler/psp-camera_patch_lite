@@ -107,6 +107,7 @@ Vertigo
 - Death Jr.
 - Kingdom Hearts: Birth By Sleep
 - The 3rd Birthday
+- Super Monkey Ball Adventure
 ```
 
 To add a game yourself just edit the camera_patch_lite.ini file with the TitleID and settings you want.
