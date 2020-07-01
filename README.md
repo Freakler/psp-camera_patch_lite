@@ -31,7 +31,6 @@ Crisis Core: Final Fantasy VII
 Coded Arms
 Dantes Inferno (dodge with stick)
 Daxter
-Final Fantasy Type0
 Free Running
 Ghostbusters: The Video Game
 Gladiator Begins
@@ -105,6 +104,7 @@ Vertigo
 ```
 - Call of Duty Roads to Victory
 - Death Jr.
+- Final Fantasy Type0
 - Kingdom Hearts: Birth By Sleep
 - The 3rd Birthday
 - Super Monkey Ball Adventure
