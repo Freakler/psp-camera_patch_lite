@@ -67,7 +67,7 @@ Pirates of the Caribbean - Dead man's chest
 Prince of Persia - Revelations
 Prince of Persia - Rival Swords
 Ratatouille
-Ratched & Clank Size Matters
+Ratchet & Clank Size Matters
 Rengoku: The Tower of Purgatory
 Rengoku II: The Stairway to Heaven
 Resistance Retribution (disabled by default)
