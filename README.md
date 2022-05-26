@@ -51,7 +51,7 @@ Medal of Honor Heroes
 Medal of Honor Heroes 2
 Metal Gear Solid - Peace Walker
 Metal Gear Solid - Portable Ops
-Miami Vice
+Miami Vice (strafe with stick)
 Midnight Club LA Remix
 Monster Hunter Freedom
 Monster Hunter Freedom 2
